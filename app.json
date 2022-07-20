@@ -12,7 +12,7 @@
         "url",
         "uploader"
     ],
-    "repository" : "https://github.com/Badsha323/URL_Uploader_Bot",
+    "repository" : "https://github.com/Harmish77/URL_Uploader_Bot",
     "success_url" : "https://t.me/URL_UploaderAJ_Bot",
     "env" : {
         "BOT_TOKEN" : {
